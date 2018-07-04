@@ -1,0 +1,23 @@
+
+.video-list-item {
+  cursor: pointer;
+}
+
+.highlight-on-hover:hover {
+  background-color: #ddd;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 15px;
+  font-size: 1.25em;
+}
+
+.video-container iframe{
+  height: 500px;
+  width: 100%;
+}
